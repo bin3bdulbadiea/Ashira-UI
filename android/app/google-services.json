@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876925081316",
+    "project_id": "ashira-c21f6",
+    "storage_bucket": "ashira-c21f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876925081316:android:4e51422dbf6d079b12bef1",
+        "android_client_info": {
+          "package_name": "com.alashira.alashira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876925081316-527ljsea42uenv2im40t55gcnnrtshrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yAkz6g5Bdk__RAk6gaA6Pj5tAazLL5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876925081316-527ljsea42uenv2im40t55gcnnrtshrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
